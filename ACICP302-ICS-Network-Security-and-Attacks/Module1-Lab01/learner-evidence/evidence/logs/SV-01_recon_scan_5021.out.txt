@@ -1,0 +1,13 @@
+### SV-01  recon_scan.py 5021  (recon/read-only)  path=GUARDED
+### 2026-10-11 18:43:17 WAT
+--- state BEFORE: {"alarm":0,"connected":true,"flow":801,"pressure":337,"temp":681}
+--- SCRIPT OUTPUT (supplied, unchanged: python3 recon_scan.py 5021) ---
+--- RECON SCAN: port 5021 ---
+  Regs 0-9: [681, 341, 800, 0, 0, 0, 0, 0, 0, 0]
+  Regs 10-19: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  Regs 20-29: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  Regs 30-39: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  Regs 40-49: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+--- state AFTER (immediately): direct={"alarm":0,"connected":true,"flow":799,"pressure":338,"temp":680} guarded={"alarm":0,"connected":true,"flow":799,"pressure":338,"temp":680}
+--- state +3s (recovery): direct={"alarm":0,"connected":true,"flow":788,"pressure":336,"temp":685} guarded={"alarm":0,"connected":true,"flow":788,"pressure":336,"temp":685}
+--- guard events appended by this run: 0

@@ -1,0 +1,9 @@
+### SV-05  replay_attack.py 5021  (replay +0.5 bar x3)  path=GUARDED
+### 2026-10-11 18:51:15 WAT
+--- state BEFORE: {"alarm":0,"connected":true,"flow":944,"pressure":391,"temp":662}
+--- SCRIPT OUTPUT (supplied, unchanged: python3 replay_attack.py 5021) ---
+--- REPLAY ATTACK: port 5021 ---
+Replayed write 39.7 bar three times.
+--- state AFTER (immediately): direct={"alarm":1,"connected":true,"flow":929,"pressure":400,"temp":658} guarded={"alarm":0,"connected":true,"flow":930,"pressure":397,"temp":660}
+--- state +3s (recovery): direct={"alarm":1,"connected":true,"flow":920,"pressure":400,"temp":658} guarded={"alarm":1,"connected":true,"flow":915,"pressure":400,"temp":659}
+--- guard events appended by this run: 0

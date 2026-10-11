@@ -1,0 +1,39 @@
+H2 FACILITY — Normal Modbus/TCP Read, captured on lo, 127.0.0.1:5020
+Commit 2a66f9b | capture 03_normal_modbus_5020.pcap
+
+================= REQUEST  (frame 16, client 127.0.0.1:57868 -> plant :5020) =================
+Modbus/TCP
+    Transaction Identifier: 1
+    Protocol Identifier: 0
+    Length: 6
+    Unit Identifier: 1
+Modbus
+    .000 0011 = Function Code: Read Holding Registers (3)
+    Reference Number: 0
+    Word Count: 4
+
+
+================= RESPONSE (frame 18, plant :5020 -> client 127.0.0.1:57868) =================
+Modbus/TCP
+    Transaction Identifier: 1
+    Protocol Identifier: 0
+    Length: 11
+    Unit Identifier: 1
+Modbus
+    .000 0011 = Function Code: Read Holding Registers (3)
+    [Request Frame: 16]
+    [Time from request: 0.000724000 seconds]
+    Byte Count: 8
+    Register 0 (UINT16): 674
+        Register Number: 0
+        Register Value (UINT16): 674
+    Register 1 (UINT16): 326
+        Register Number: 1
+        Register Value (UINT16): 326
+    Register 2 (UINT16): 880
+        Register Number: 2
+        Register Value (UINT16): 880
+    Register 3 (UINT16): 0
+        Register Number: 3
+        Register Value (UINT16): 0
+

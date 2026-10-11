@@ -1,0 +1,11 @@
+ACICP302ICS Activity 00 — Preflight record
+Date/time: 2026-10-11 18:39 WAT (22:39 PKT, UTC+5 learner local)
+Uploaded Student Lab Guide == repo labs/ot-security/STUDENT_LAB_GUIDE.md : IDENTICAL
+Course source commit: 2a66f9bcf253eb3fe31c68ad52794cd535421da8
+Canonical path: labs/ot-security/student-lab-source/
+Loopback check 1 (grep -R -nE '192\.168\.2\.139|0\.0\.0\.0' plant_sim): NO MATCHES (PASS)
+Loopback check 2 (grep -R -n '127\.0\.0\.1' plant_sim): 13 occurrences (PASS)
+Python: 3.13.16  |  pymodbus 3.6.9  |  Flask 3.1.3
+Archive diff vs student source: only 192.168.2.139->127.0.0.1, 0.0.0.0->127.0.0.1, dashboard subtitle text, Flask added to requirements.
+Clean-state substitute: fresh shallow clone + SHA-256 hashes in 00_source_hashes.txt
+VM substitute: Claude isolated Ubuntu 24.04.5 LTS sandbox (instructor-approved); no nested hypervisor, no bridged adapter present.

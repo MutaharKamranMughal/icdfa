@@ -1,0 +1,12 @@
+### SV-02  attack_hold.py 5020  (hold 95 bar out-of-range)  path=DIRECT
+### 2026-10-11 18:43:35 WAT
+--- state BEFORE: {"alarm":0,"connected":true,"flow":770,"pressure":342,"temp":682}
+--- SCRIPT OUTPUT (supplied, unchanged: python3 attack_hold.py 5020) ---
+--- ATTACK HOLD: targeting port 5020 ---
+Writes sent: 79
+Peak pressure observed: 95.0 bar at t=0.00s (safe range: 30.0-40.0 bar)
+Readings outside safe range: 79/79 (100%)
+RESULT: UNSAFE VALUE REACHED THE PLANT
+--- state AFTER (immediately): direct={"alarm":1,"connected":true,"flow":736,"pressure":400,"temp":678} guarded={"alarm":1,"connected":true,"flow":736,"pressure":400,"temp":678}
+--- state +3s (recovery): direct={"alarm":1,"connected":true,"flow":731,"pressure":396,"temp":676} guarded={"alarm":1,"connected":true,"flow":731,"pressure":396,"temp":676}
+--- guard events appended by this run: 0

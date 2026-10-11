@@ -1,0 +1,31 @@
+### SV-03  false_data_attack.py 5021  (false temp/pressure/flow x6)  path=GUARDED
+### 2026-10-11 18:46:09 WAT
+--- state BEFORE: {"alarm":1,"connected":true,"flow":1486,"pressure":397,"temp":747}
+--- SCRIPT OUTPUT (supplied, unchanged: python3 false_data_attack.py 5021) ---
+--- FALSE DATA INJECTION: port 5021 ---
+Peak temp observed:     74.9C at t=4.01s (safe: 60.0-75.0C)
+Peak pressure observed: 40.0bar at t=1.00s (safe: 30.0-40.0bar)
+Peak flow observed:     150.0Nm3/h at t=5.01s (safe: 50.0-150.0)
+Unsafe readings: temp 0/6, pressure 0/6, flow 0/6
+RESULT: attack fully contained
+--- state AFTER (immediately): direct={"alarm":1,"connected":true,"flow":1500,"pressure":400,"temp":746} guarded={"alarm":1,"connected":true,"flow":1500,"pressure":400,"temp":746}
+--- state +3s (recovery): direct={"alarm":1,"connected":true,"flow":1500,"pressure":395,"temp":744} guarded={"alarm":1,"connected":true,"flow":1500,"pressure":395,"temp":744}
+--- guard events appended by this run: 18
+{"timestamp": "2026-10-11 22:46:10", "reason": "110.0C outside safe range 60.0-75.0C; step of 35.4C exceeds max 3.0C; cumulative drift of 35.2C over last 3 accepted writes exceeds 2.0C limit"}
+{"timestamp": "2026-10-11 22:46:10", "reason": "55.0 bar outside safe range 30.0-40.0 bar; step of 15.2 bar exceeds max 5.0 bar; cumulative drift of 15.4 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:46:10", "reason": "200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 51.6 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 50.7 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit"}
+{"timestamp": "2026-10-11 22:46:11", "reason": "110.0C outside safe range 60.0-75.0C; step of 35.3C exceeds max 3.0C; cumulative drift of 35.3C over last 3 accepted writes exceeds 2.0C limit"}
+{"timestamp": "2026-10-11 22:46:11", "reason": "55.0 bar outside safe range 30.0-40.0 bar; step of 15.3 bar exceeds max 5.0 bar; cumulative drift of 15.3 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:46:11", "reason": "200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 52.0 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 51.4 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit"}
+{"timestamp": "2026-10-11 22:46:12", "reason": "110.0C outside safe range 60.0-75.0C; step of 35.3C exceeds max 3.0C; cumulative drift of 35.4C over last 3 accepted writes exceeds 2.0C limit"}
+{"timestamp": "2026-10-11 22:46:12", "reason": "55.0 bar outside safe range 30.0-40.0 bar; step of 15.2 bar exceeds max 5.0 bar; cumulative drift of 15.3 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:46:12", "reason": "200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 50.5 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 52.0 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit"}
+{"timestamp": "2026-10-11 22:46:13", "reason": "110.0C outside safe range 60.0-75.0C; step of 35.2C exceeds max 3.0C; cumulative drift of 35.3C over last 3 accepted writes exceeds 2.0C limit"}
+{"timestamp": "2026-10-11 22:46:13", "reason": "55.0 bar outside safe range 30.0-40.0 bar; step of 15.2 bar exceeds max 5.0 bar; cumulative drift of 15.0 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:46:13", "reason": "200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 51.2 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 51.4 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit"}
+{"timestamp": "2026-10-11 22:46:14", "reason": "110.0C outside safe range 60.0-75.0C; step of 35.1C exceeds max 3.0C; cumulative drift of 35.3C over last 3 accepted writes exceeds 2.0C limit"}
+{"timestamp": "2026-10-11 22:46:14", "reason": "55.0 bar outside safe range 30.0-40.0 bar; step of 15.3 bar exceeds max 5.0 bar; cumulative drift of 15.2 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:46:14", "reason": "200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 50.5 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 50.5 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit"}
+{"timestamp": "2026-10-11 22:46:15", "reason": "110.0C outside safe range 60.0-75.0C; step of 35.3C exceeds max 3.0C; cumulative drift of 35.2C over last 3 accepted writes exceeds 2.0C limit"}
+{"timestamp": "2026-10-11 22:46:15", "reason": "55.0 bar outside safe range 30.0-40.0 bar; step of 15.0 bar exceeds max 5.0 bar; cumulative drift of 15.2 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:46:15", "reason": "200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 50.0 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 51.2 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit"}

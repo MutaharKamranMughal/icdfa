@@ -1,0 +1,25 @@
+### SV-04  slow_drift_attack.py 5021  (+1 bar x12 ramp (clean baseline))  path=GUARDED
+### 2026-10-11 18:49:06 WAT
+--- state BEFORE: {"alarm":0,"connected":true,"flow":916,"pressure":329,"temp":674}
+--- SCRIPT OUTPUT (supplied, unchanged: python3 slow_drift_attack.py 5021) ---
+Starting: 32.9 bar | Target: port 5021
+  Step 1: requested 33.9 -> actual 33.7
+  Step 2: requested 34.9 -> actual 34.6
+  Step 3: requested 35.9 -> actual 35.7
+  Step 4: requested 36.9 -> actual 36.8
+  Step 5: requested 37.9 -> actual 37.8
+  Step 6: requested 38.9 -> actual 38.9
+  Step 7: requested 39.9 -> actual 40.0
+  Step 8: requested 40.9 -> actual 39.9
+  Step 9: requested 41.9 -> actual 39.8
+  Step 10: requested 42.9 -> actual 40.0
+  Step 11: requested 43.9 -> actual 39.6
+  Step 12: requested 44.9 -> actual 39.6
+--- state AFTER (immediately): direct={"alarm":1,"connected":true,"flow":917,"pressure":397,"temp":676} guarded={"alarm":1,"connected":true,"flow":913,"pressure":396,"temp":676}
+--- state +3s (recovery): direct={"alarm":1,"connected":true,"flow":925,"pressure":398,"temp":678} guarded={"alarm":1,"connected":true,"flow":922,"pressure":398,"temp":679}
+--- guard events appended by this run: 5
+{"timestamp": "2026-10-11 22:49:21", "reason": "40.9 bar outside safe range 30.0-40.0 bar"}
+{"timestamp": "2026-10-11 22:49:23", "reason": "41.9 bar outside safe range 30.0-40.0 bar"}
+{"timestamp": "2026-10-11 22:49:25", "reason": "42.9 bar outside safe range 30.0-40.0 bar; cumulative drift of 3.0 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:49:27", "reason": "43.9 bar outside safe range 30.0-40.0 bar; cumulative drift of 4.1 bar over last 3 accepted writes exceeds 2.0 bar limit"}
+{"timestamp": "2026-10-11 22:49:29", "reason": "44.9 bar outside safe range 30.0-40.0 bar; step of 5.3 bar exceeds max 5.0 bar; cumulative drift of 4.9 bar over last 3 accepted writes exceeds 2.0 bar limit"}

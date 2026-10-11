@@ -1,0 +1,124 @@
+2026-10-11 22:40:57,341 INFO Guard listening on 127.0.0.1:5021 — protecting plant at 127.0.0.1:5020
+2026-10-11 22:40:57,342 INFO Server listening.
+2026-10-11 22:43:50,257 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.3 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,359 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.3 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,460 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.3 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,562 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,664 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,766 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,868 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:50,969 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,071 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,172 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,274 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,377 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,479 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.1 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,581 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,684 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,786 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,887 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:51,989 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,091 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,193 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,295 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,398 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,500 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,602 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,704 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,806 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:52,907 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,011 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,112 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,214 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,316 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,417 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,519 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,621 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,723 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,825 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:53,926 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,028 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,130 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,231 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,334 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,435 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,537 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,638 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,740 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,841 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:54,943 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,044 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,146 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,248 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,350 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,451 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,553 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,655 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,757 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,859 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:55,960 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,063 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,165 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,266 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,368 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,470 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.4 bar exceeds max 5.0 bar; cumulative drift of 55.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,571 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,673 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,775 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,877 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:56,978 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,080 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,182 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,284 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,386 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,487 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.2 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,588 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,690 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,791 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,893 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:57,995 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:58,097 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:43:58,198 WARNING BLOCKED write to reg 1: 95.0 bar outside safe range 30.0-40.0 bar; step of 55.0 bar exceeds max 5.0 bar; cumulative drift of 55.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:45:13,241 INFO Guard listening on 127.0.0.1:5021 — protecting plant at 127.0.0.1:5020
+2026-10-11 22:45:13,242 INFO Server listening.
+2026-10-11 22:45:34,123 INFO Guard listening on 127.0.0.1:5021 — protecting plant at 127.0.0.1:5020
+2026-10-11 22:45:34,125 INFO Server listening.
+2026-10-11 22:46:10,162 WARNING BLOCKED write to reg 0: 110.0C outside safe range 60.0-75.0C; step of 35.4C exceeds max 3.0C; cumulative drift of 35.2C over last 3 accepted writes exceeds 2.0C limit
+2026-10-11 22:46:10,163 WARNING BLOCKED write to reg 1: 55.0 bar outside safe range 30.0-40.0 bar; step of 15.2 bar exceeds max 5.0 bar; cumulative drift of 15.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:46:10,164 WARNING BLOCKED write to reg 2: 200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 51.6 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 50.7 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit
+2026-10-11 22:46:11,165 WARNING BLOCKED write to reg 0: 110.0C outside safe range 60.0-75.0C; step of 35.3C exceeds max 3.0C; cumulative drift of 35.3C over last 3 accepted writes exceeds 2.0C limit
+2026-10-11 22:46:11,166 WARNING BLOCKED write to reg 1: 55.0 bar outside safe range 30.0-40.0 bar; step of 15.3 bar exceeds max 5.0 bar; cumulative drift of 15.3 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:46:11,166 WARNING BLOCKED write to reg 2: 200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 52.0 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 51.4 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit
+2026-10-11 22:46:12,167 WARNING BLOCKED write to reg 0: 110.0C outside safe range 60.0-75.0C; step of 35.3C exceeds max 3.0C; cumulative drift of 35.4C over last 3 accepted writes exceeds 2.0C limit
+2026-10-11 22:46:12,168 WARNING BLOCKED write to reg 1: 55.0 bar outside safe range 30.0-40.0 bar; step of 15.2 bar exceeds max 5.0 bar; cumulative drift of 15.3 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:46:12,169 WARNING BLOCKED write to reg 2: 200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 50.5 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 52.0 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit
+2026-10-11 22:46:13,170 WARNING BLOCKED write to reg 0: 110.0C outside safe range 60.0-75.0C; step of 35.2C exceeds max 3.0C; cumulative drift of 35.3C over last 3 accepted writes exceeds 2.0C limit
+2026-10-11 22:46:13,170 WARNING BLOCKED write to reg 1: 55.0 bar outside safe range 30.0-40.0 bar; step of 15.2 bar exceeds max 5.0 bar; cumulative drift of 15.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:46:13,171 WARNING BLOCKED write to reg 2: 200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 51.2 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 51.4 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit
+2026-10-11 22:46:14,172 WARNING BLOCKED write to reg 0: 110.0C outside safe range 60.0-75.0C; step of 35.1C exceeds max 3.0C; cumulative drift of 35.3C over last 3 accepted writes exceeds 2.0C limit
+2026-10-11 22:46:14,172 WARNING BLOCKED write to reg 1: 55.0 bar outside safe range 30.0-40.0 bar; step of 15.3 bar exceeds max 5.0 bar; cumulative drift of 15.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:46:14,173 WARNING BLOCKED write to reg 2: 200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 50.5 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 50.5 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit
+2026-10-11 22:46:15,174 WARNING BLOCKED write to reg 0: 110.0C outside safe range 60.0-75.0C; step of 35.3C exceeds max 3.0C; cumulative drift of 35.2C over last 3 accepted writes exceeds 2.0C limit
+2026-10-11 22:46:15,175 WARNING BLOCKED write to reg 1: 55.0 bar outside safe range 30.0-40.0 bar; step of 15.0 bar exceeds max 5.0 bar; cumulative drift of 15.2 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:46:15,175 WARNING BLOCKED write to reg 2: 200.0 Nm3/h outside safe range 50.0-150.0 Nm3/h; step of 50.0 Nm3/h exceeds max 10.0 Nm3/h; cumulative drift of 51.2 Nm3/h over last 3 accepted writes exceeds 4.0 Nm3/h limit
+2026-10-11 22:46:55,290 INFO Guard listening on 127.0.0.1:5021 — protecting plant at 127.0.0.1:5020
+2026-10-11 22:46:55,291 INFO Server listening.
+2026-10-11 22:47:45,325 WARNING BLOCKED write to reg 1: 40.6 bar outside safe range 30.0-40.0 bar
+2026-10-11 22:47:47,327 WARNING BLOCKED write to reg 1: 41.6 bar outside safe range 30.0-40.0 bar
+2026-10-11 22:47:49,329 WARNING BLOCKED write to reg 1: 42.6 bar outside safe range 30.0-40.0 bar; cumulative drift of 3.3 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:47:51,331 WARNING BLOCKED write to reg 1: 43.6 bar outside safe range 30.0-40.0 bar; cumulative drift of 4.5 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:47:53,333 WARNING BLOCKED write to reg 1: 44.6 bar outside safe range 30.0-40.0 bar; step of 5.5 bar exceeds max 5.0 bar; cumulative drift of 5.5 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:47:55,334 WARNING BLOCKED write to reg 1: 45.6 bar outside safe range 30.0-40.0 bar; step of 6.4 bar exceeds max 5.0 bar; cumulative drift of 6.5 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:47:57,336 WARNING BLOCKED write to reg 1: 46.6 bar outside safe range 30.0-40.0 bar; step of 7.5 bar exceeds max 5.0 bar; cumulative drift of 7.4 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:47:59,337 WARNING BLOCKED write to reg 1: 47.6 bar outside safe range 30.0-40.0 bar; step of 8.9 bar exceeds max 5.0 bar; cumulative drift of 8.5 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:48:01,339 WARNING BLOCKED write to reg 1: 48.6 bar outside safe range 30.0-40.0 bar; step of 9.6 bar exceeds max 5.0 bar; cumulative drift of 9.9 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:48:03,341 WARNING BLOCKED write to reg 1: 49.6 bar outside safe range 30.0-40.0 bar; step of 11.1 bar exceeds max 5.0 bar; cumulative drift of 10.6 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:48:05,343 WARNING BLOCKED write to reg 1: 50.6 bar outside safe range 30.0-40.0 bar; step of 11.7 bar exceeds max 5.0 bar; cumulative drift of 12.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:48:07,345 WARNING BLOCKED write to reg 1: 51.6 bar outside safe range 30.0-40.0 bar; step of 12.3 bar exceeds max 5.0 bar; cumulative drift of 12.7 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:48:50,236 INFO Guard listening on 127.0.0.1:5021 — protecting plant at 127.0.0.1:5020
+2026-10-11 22:48:50,238 INFO Server listening.
+2026-10-11 22:49:21,268 WARNING BLOCKED write to reg 1: 40.9 bar outside safe range 30.0-40.0 bar
+2026-10-11 22:49:23,271 WARNING BLOCKED write to reg 1: 41.9 bar outside safe range 30.0-40.0 bar
+2026-10-11 22:49:25,273 WARNING BLOCKED write to reg 1: 42.9 bar outside safe range 30.0-40.0 bar; cumulative drift of 3.0 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:49:27,275 WARNING BLOCKED write to reg 1: 43.9 bar outside safe range 30.0-40.0 bar; cumulative drift of 4.1 bar over last 3 accepted writes exceeds 2.0 bar limit
+2026-10-11 22:49:29,277 WARNING BLOCKED write to reg 1: 44.9 bar outside safe range 30.0-40.0 bar; step of 5.3 bar exceeds max 5.0 bar; cumulative drift of 4.9 bar over last 3 accepted writes exceeds 2.0 bar limit
